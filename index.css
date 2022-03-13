@@ -11,7 +11,6 @@ main {
     transform: translate(-50%, -50%);
     font-family: 'Outfit', sans-serif;
     background-color: hsl(0, 0%, 100%);
-    color:hsl(220, 15%, 55%);
     padding: 1em;
     padding-bottom: 2em;
     width: 70%;
@@ -32,11 +31,13 @@ img {
 main h2 {
     font-weight: 700;
     font-size: 24px;
+    color: hsl(218, 44%, 22%)
 }
 
 main p {
     font-size: 15px;
     font-weight: 400;
+    color:hsl(220, 15%, 55%);
 }
 
 footer{
