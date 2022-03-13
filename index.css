@@ -6,7 +6,7 @@ body {
 
 main {
     position: fixed;
-    top: 45%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Outfit', sans-serif;
@@ -39,7 +39,7 @@ main p {
     color: hsl(220, 15%, 55%);
 }
 
-footer {
+footer{
     position: fixed;
     left: 0;
     bottom: 0;
@@ -50,9 +50,12 @@ footer {
     text-decoration: none;
 }
 
+footer a {
+    color:#ffffff;
+}
+
 footer a:hover {
     color:hsl(220, 15%, 55%);
-    
 }
 
 
